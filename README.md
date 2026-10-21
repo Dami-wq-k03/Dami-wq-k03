@@ -18,17 +18,10 @@ Rewrites Chinese text through a locally hosted model and an OpenAI-compatible AP
 
 ### Activity
 
-<details>
-<summary>Contribution history</summary>
-
-<br>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dami-wq-k03/Dami-wq-k03/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dami-wq-k03/Dami-wq-k03/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="A snake eating Dami-wq-k03's GitHub contribution grid" src="https://raw.githubusercontent.com/Dami-wq-k03/Dami-wq-k03/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="./profile-3d-contrib/profile-green.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg">
+  <img width="100%" alt="Dami-wq-k03's GitHub contributions as a 3D calendar" src="./profile-3d-contrib/profile-green.svg">
 </picture>
 
 <sub>Updated daily from GitHub activity.</sub>
-
-</details>

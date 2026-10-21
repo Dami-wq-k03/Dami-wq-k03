@@ -28,9 +28,9 @@ Avoid badge walls, dense stats-card collections, long autobiographies, generic t
 - Feature three public repositories with links to inspectable artifacts.
 - Keep every visible line useful.
 - Use a native text heading for the name; no decorative identity banner.
-- Keep contribution animation optional, collapsed at the end of the page.
+- Show one 3D contribution calendar directly at the end of the page, without a collapsed section.
 - Stay legible in both GitHub color modes.
 
 ## Accessibility & Inclusion
 
-Maintain descriptive alternative text, clear hierarchy, and readable contrast in light and dark themes. Keep the name, personal introduction, and project descriptions as selectable README text that follows GitHub's theme. The third-party contribution animation is contained in a collapsed details element and is never needed to understand the profile.
+Maintain descriptive alternative text, clear hierarchy, and readable contrast in light and dark themes. Keep the name, personal introduction, and project descriptions as selectable README text that follows GitHub's theme. Show the 3D contribution calendar by default, with a dark variant and a static fallback for visitors who prefer reduced motion.

@@ -1,7 +1,14 @@
-name: Generate 3D contribution graph (manual)
+name: Generate 3D contribution graph
 
 on:
+  schedule:
+    - cron: "47 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-3d.yml"
 
 permissions:
   contents: write

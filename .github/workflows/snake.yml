@@ -1,14 +1,7 @@
-name: Generate contribution snake
+name: Generate contribution snake (manual)
 
 on:
-  schedule:
-    - cron: "17 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
