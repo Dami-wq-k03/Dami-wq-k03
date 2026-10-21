@@ -1,6 +1,4 @@
-<img width="100%" alt="Wenqiao Kang" src="./assets/electromagnetic-city.svg">
-
-Software Engineering · Xidian University
+# Wenqiao Kang
 
 I build practical AI systems, with a focus on traceability, reliability, and useful outcomes.
 

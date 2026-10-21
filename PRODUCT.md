@@ -23,13 +23,14 @@ Avoid badge walls, dense stats-card collections, long autobiographies, generic t
 ## Design Principles
 
 - Lead with identity, then evidence.
+- Introduce Wenqiao by name and engineering interests, without school or institutional branding.
 - Explain each project's practical purpose before listing its technologies.
 - Feature three public repositories with links to inspectable artifacts.
 - Keep every visible line useful.
-- Keep the custom banner static, with a graphite base and one muted signal line.
+- Use a native text heading for the name; no decorative identity banner.
 - Keep contribution animation optional, collapsed at the end of the page.
 - Stay legible in both GitHub color modes.
 
 ## Accessibility & Inclusion
 
-Maintain descriptive alternative text, clear hierarchy, and readable contrast in light and dark themes. Keep the personal introduction and project descriptions as selectable README text. The custom banner has no animation; the third-party contribution animation is contained in a collapsed details element and is never needed to understand the profile.
+Maintain descriptive alternative text, clear hierarchy, and readable contrast in light and dark themes. Keep the name, personal introduction, and project descriptions as selectable README text that follows GitHub's theme. The third-party contribution animation is contained in a collapsed details element and is never needed to understand the profile.
