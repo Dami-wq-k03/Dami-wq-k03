@@ -6,11 +6,11 @@ brand
 
 ## Users
 
-Developers, researchers, collaborators, and recruiters who visit Wenqiao Kang's GitHub profile to understand his technical focus and strongest work within a few seconds.
+Developers, researchers, collaborators, and recruiters who visit Dami-wq-k03's GitHub profile to understand his technical focus and strongest work within a few seconds.
 
 ## Product Purpose
 
-Present a concise, credible engineering identity centered on practical AI systems, document intelligence, and LLM inference. Success means visitors quickly understand what Wenqiao builds, why it is useful, and where they can inspect the work.
+Present a concise, credible engineering identity centered on practical AI systems, document intelligence, and LLM inference. Success means visitors quickly understand what Dami-wq-k03 builds, why it is useful, and where they can inspect the work.
 
 ## Brand Personality
 
@@ -23,7 +23,7 @@ Avoid badge walls, dense stats-card collections, long autobiographies, generic t
 ## Design Principles
 
 - Lead with identity, then evidence.
-- Introduce Wenqiao by name and engineering interests, without school or institutional branding.
+- Use Dami-wq-k03 as the displayed name, with engineering interests and no school or institutional branding.
 - Explain each project's practical purpose before listing its technologies.
 - Feature three public repositories with links to inspectable artifacts.
 - Keep every visible line useful.

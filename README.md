@@ -1,4 +1,4 @@
-# Wenqiao Kang
+# Dami-wq-k03
 
 I build practical AI systems, with a focus on traceability, reliability, and useful outcomes.
 
@@ -26,7 +26,7 @@ Rewrites Chinese text through a locally hosted model and an OpenAI-compatible AP
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dami-wq-k03/Dami-wq-k03/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dami-wq-k03/Dami-wq-k03/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="A snake eating Wenqiao's GitHub contribution grid" src="https://raw.githubusercontent.com/Dami-wq-k03/Dami-wq-k03/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="A snake eating Dami-wq-k03's GitHub contribution grid" src="https://raw.githubusercontent.com/Dami-wq-k03/Dami-wq-k03/output/github-contribution-grid-snake.svg">
 </picture>
 
 <sub>Updated daily from GitHub activity.</sub>
