@@ -1,25 +1,27 @@
-<div align="center">
-  <img width="100%" alt="Wenqiao Kang — AI agents, document intelligence, and applied machine learning" src="./assets/electromagnetic-city.svg">
+# Wenqiao Kang
 
-  <samp>Software Engineering @ Xidian University &nbsp;·&nbsp; Building AI systems that stay useful in the real world.</samp>
-</div>
+I build practical AI systems, with a focus on traceability, reliability, and useful outcomes.
 
-<br>
-
-### Selected systems
-
-[**EvidenceRail**](https://github.com/Dami-wq-k03/OpenJiuwen-Agentic-Science-Competition)<br>
-Traceable scientific agents that keep claims connected to evidence. `Python` `JiuwenSwarm`
+### Selected work
 
 [**Document Agent**](https://github.com/Dami-wq-k03/doc_agent_tool)<br>
-Multi-agent document analysis with hybrid retrieval and source tracing. `FastAPI` `Vue` `pgvector`
+Recommends and generates project documents from source materials, with evidence traceable to the original text.<br>
+<sub>FastAPI · Vue · pgvector · [Architecture](https://github.com/Dami-wq-k03/doc_agent_tool/blob/main/archnew.png)</sub>
+
+[**nano-lmcache**](https://github.com/Dami-wq-k03/nano-lmcache)<br>
+A step-by-step implementation of KV cache reuse, with runnable examples for prefix matching and cache storage.<br>
+<sub>Python · LLM inference · [Examples](https://github.com/Dami-wq-k03/nano-lmcache/tree/main/examples)</sub>
 
 [**AIGC Rewriter**](https://github.com/Dami-wq-k03/LLMconfig)<br>
-A local, OpenAI-compatible rewriting service. `Python` `Ollama`
+Rewrites Chinese text through a locally hosted model and an OpenAI-compatible API.<br>
+<sub>Python · Ollama · [API usage](https://github.com/Dami-wq-k03/LLMconfig#openai-格式使用)</sub>
+
+### Activity
+
+<details>
+<summary>Contribution history</summary>
 
 <br>
-
-### Contributions, in depth
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dami-wq-k03/Dami-wq-k03/output/github-contribution-grid-snake-dark.svg">
@@ -27,4 +29,6 @@ A local, OpenAI-compatible rewriting service. `Python` `Ollama`
   <img width="100%" alt="A snake eating Wenqiao's GitHub contribution grid" src="https://raw.githubusercontent.com/Dami-wq-k03/Dami-wq-k03/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="right"><sub>Generated daily from live GitHub activity.</sub></p>
+<sub>Updated daily from GitHub activity.</sub>
+
+</details>

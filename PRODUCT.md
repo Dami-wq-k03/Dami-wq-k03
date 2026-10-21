@@ -10,24 +10,27 @@ Developers, researchers, collaborators, and recruiters who visit Wenqiao Kang's 
 
 ## Product Purpose
 
-Present a concise, credible engineering identity centered on AI agents, document intelligence, and applied machine learning. Success means visitors quickly grasp the focus, find the strongest repositories, and remember the contribution visualizations.
+Present a concise, credible engineering identity centered on practical AI systems, document intelligence, and LLM inference. Success means visitors quickly understand what Wenqiao builds, why it is useful, and where they can inspect the work.
 
 ## Brand Personality
 
-Precise, kinetic, and understated. The profile should feel technically capable without looking like a dashboard or a collection of generated badges.
+Precise, thoughtful, and understated. The profile should feel like an engineer's introduction: personal, concrete, and easy to read.
 
 ## Anti-references
 
-Avoid badge walls, dense stats-card collections, long autobiographies, generic typing animations, decorative gradients, and crowded project tables.
+Avoid badge walls, dense stats-card collections, long autobiographies, generic typing animations, decorative gradients, crowded project tables, and cyberpunk imagery.
 
 ## Design Principles
 
 - Lead with identity, then evidence.
-- Let working artifacts carry the visual interest.
+- Introduce Wenqiao by name and engineering interests, without school or institutional branding.
+- Explain each project's practical purpose before listing its technologies.
+- Feature three public repositories with links to inspectable artifacts.
 - Keep every visible line useful.
-- Use motion as proof of activity, not decoration.
+- Use a native text heading for the name; no decorative identity banner.
+- Keep contribution animation optional, collapsed at the end of the page.
 - Stay legible in both GitHub color modes.
 
 ## Accessibility & Inclusion
 
-Maintain descriptive alternative text, clear hierarchy, readable contrast in light and dark themes, and reduced-motion fallbacks in custom assets.
+Maintain descriptive alternative text, clear hierarchy, and readable contrast in light and dark themes. Keep the name, personal introduction, and project descriptions as selectable README text that follows GitHub's theme. The third-party contribution animation is contained in a collapsed details element and is never needed to understand the profile.
