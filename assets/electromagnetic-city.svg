@@ -1,53 +1,18 @@
-<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="960" height="190" viewBox="0 0 960 190" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Wenqiao Kang</title>
-  <desc id="desc">A restrained electromagnetic city signal visual for an AI systems builder.</desc>
+  <desc id="desc">Wenqiao Kang's name above a single muted signal line.</desc>
   <style>
-    .signal {
-      stroke-dasharray: 18 10;
-      animation: signal-flow 5s linear infinite;
-    }
-    .spark {
-      animation: spark-pulse 2.4s steps(2, end) infinite;
-      transform-origin: 832px 67px;
-    }
-    @keyframes signal-flow { to { stroke-dashoffset: -56; } }
-    @keyframes spark-pulse { 50% { opacity: 0.45; transform: scale(0.94); } }
-    @media (prefers-reduced-motion: reduce) {
-      .signal, .spark { animation: none; }
+    .background { fill: #f6f7f8; }
+    .name { fill: #1f2328; }
+    .signal { stroke: #607c8c; }
+    @media (prefers-color-scheme: dark) {
+      .background { fill: #16181d; }
+      .name { fill: #e5e7eb; }
+      .signal { stroke: #90a8b7; }
     }
   </style>
 
-  <rect width="1200" height="260" rx="6" fill="#071727"/>
-  <rect x="1" y="1" width="1198" height="258" rx="5" stroke="#8BE9FF" stroke-opacity=".26"/>
-
-  <g opacity=".16" stroke="#8BE9FF">
-    <path d="M0 210H1200"/>
-    <path d="M0 226H1200"/>
-    <path d="M80 260L240 150H1200"/>
-    <path d="M350 260L490 160H1200"/>
-  </g>
-
-  <path class="signal" d="M0 178H270L303 145H520L548 116H1200" stroke="#8BE9FF" stroke-width="3" opacity=".68"/>
-  <path d="M520 205L576 158L620 184L692 104L740 136L810 48" stroke="#FF6B78" stroke-width="3"/>
-  <path class="spark" d="M805 52L847 29L830 73L875 60L837 103" stroke="#FFF" stroke-width="4" stroke-linejoin="round"/>
-
-  <g fill="#8BE9FF" opacity=".62">
-    <circle cx="1030" cy="56" r="2"/>
-    <circle cx="1080" cy="94" r="3"/>
-    <circle cx="1128" cy="42" r="2"/>
-    <circle cx="930" cy="112" r="2"/>
-    <circle cx="1160" cy="152" r="2"/>
-  </g>
-
-  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" letter-spacing="0">
-    <text x="78" y="72" font-size="15" fill="#8BE9FF">XIDIAN / SOFTWARE ENGINEERING</text>
-    <text x="76" y="132" font-size="46" font-weight="700" fill="#F4FAFF">WENQIAO KANG</text>
-    <text x="79" y="169" font-size="17" fill="#FF9AA4">AI AGENTS / DOCUMENT INTELLIGENCE / APPLIED ML</text>
-  </g>
-
-  <g transform="translate(1038 174)" stroke="#8BE9FF" stroke-width="1.5" opacity=".58">
-    <circle r="38"/>
-    <circle r="24"/>
-    <path d="M-48 0H48M0-48V48M-34-34L34 34M34-34L-34 34"/>
-  </g>
+  <rect class="background" width="960" height="190" rx="4"/>
+  <text class="name" x="40" y="108" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="56" font-weight="600" letter-spacing="0">Wenqiao Kang</text>
+  <path class="signal" d="M40 150H570L586 138H670L686 150H920" stroke-width="1.5" opacity=".45"/>
 </svg>
