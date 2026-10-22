@@ -2,6 +2,8 @@
 
 I build practical AI systems, with a focus on traceability, reliability, and useful outcomes.
 
+Contact: [wenqiaokang@outlook.com](mailto:wenqiaokang@outlook.com)
+
 ### Selected work
 
 [**nano-lmcache**](https://github.com/Dami-wq-k03/nano-lmcache)<br>
