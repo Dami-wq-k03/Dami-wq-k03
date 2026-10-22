@@ -25,7 +25,7 @@ Avoid badge walls, dense stats-card collections, long autobiographies, generic t
 - Lead with identity, then evidence.
 - Use Dami-wq-k03 as the displayed name, with engineering interests and no school or institutional branding.
 - Explain each project's practical purpose before listing its technologies.
-- Feature three public repositories with links to inspectable artifacts.
+- Feature only public repositories with links to inspectable artifacts.
 - Keep every visible line useful.
 - Use a native text heading for the name; no decorative identity banner.
 - Show one 3D contribution calendar directly at the end of the page, without a collapsed section.
